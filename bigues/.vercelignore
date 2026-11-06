@@ -1,0 +1,7 @@
+# Vercel only hosts the static club website. Deploy PHP separately.
+*.php
+inc/
+data/
+uploads/
+bigues-resultats/
+bigues-resultats-05_10_2026/
